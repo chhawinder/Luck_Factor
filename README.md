@@ -30,3 +30,4 @@ If the number matches with the one that is randomly picked by the computer,you w
 the good thing is that an alert box will also provide you with a hint whether you need to put a number larger than or smaller than the number you have inputed previously. 
 If you are not lucky to get win for the first time,don't feel bad,just try again.
 
+Video tutorial: https://www.loom.com/share/9cdf6a682fdb4b86be6872bfbd3796eb
